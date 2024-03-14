@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1 style="color:red;background-color:black;font-size:30px;text-shadow:gray;">the date :   <%=new Date() %></h1>
+<h1 style="color:red;background-color:black;font-size:30px;text-shadow: white ;">the date :   <%=new Date() %></h1>
 
 </body>
 </html>
